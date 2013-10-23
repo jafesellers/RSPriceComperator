@@ -1,0 +1,11 @@
+{
+	"icon":"http://services.runescape.com/m=itemdb_rs/4255_obj_sprite.gif?id=11838",
+	"icon_large":"http://services.runescape.com/m=itemdb_rs/4255_obj_big.gif?id=11838",
+	"id":11838,
+	"type":"Melee armour - mid level",
+	"typeIcon":"http://www.runescape.com/img/categories/Melee armour - mid level",
+	"name":"Rune armour set (lg)",
+	"description":"Grand Exchange set containing a rune full helm, platebody, legs and kiteshield.",
+	"current":{"trend":"neutral","price":"133.0k"},
+	"today":{"trend":"negative","price":-667}
+}
