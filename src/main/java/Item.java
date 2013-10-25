@@ -1,4 +1,3 @@
-
 public class Item {
 	private String icon, typeIcon, name, description, icon_large;
 	private int id;

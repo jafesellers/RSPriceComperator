@@ -4,7 +4,7 @@ import java.io.IOException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class PriceCopmareMain {
-	public static void main(String[] args){
+	public static void main(String args[]){
 		ObjectMapper mapper = new ObjectMapper();
 		try {
 			InputStream file = PriceCopmareMain.class.getResourceAsStream("user.json");
