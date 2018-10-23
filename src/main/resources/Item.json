@@ -1,11 +1,13 @@
 {
-	"icon":"http://services.runescape.com/m=itemdb_rs/4255_obj_sprite.gif?id=11838",
-	"icon_large":"http://services.runescape.com/m=itemdb_rs/4255_obj_big.gif?id=11838",
-	"id":11838,
-	"type":"Melee armour - mid level",
-	"typeIcon":"http://www.runescape.com/img/categories/Melee armour - mid level",
-	"name":"Rune armour set (lg)",
-	"description":"Grand Exchange set containing a rune full helm, platebody, legs and kiteshield.",
-	"current":{"trend":"neutral","price":"133.0k"},
-	"today":{"trend":"negative","price":-667}
-}
+	"icon":"http://services.runescape.com/m=itemdb_rs/1517223669119_obj_sprite.gif?id=11834",
+	"icon_large":"http://services.runescape.com/m=itemdb_rs/1517223669119_obj_big.gif?id=11834",
+	"id":11834,
+	"type":"Melee armour - low level",
+	"typeIcon":"http://www.runescape.com/img/categories/Melee armour - low level",
+	"name":"Adamant armour set (lg)",
+	"description":"Grand Exchange set containing an adamant full helm, platebody, legs and kiteshield.",
+	"current":{"trend":"neutral","price":"24.9k"},
+	"today":{"trend":"neutral","price":0},
+	"members":"false"
+	}
+	
